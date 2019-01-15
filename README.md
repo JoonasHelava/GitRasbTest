@@ -1,2 +1,2 @@
-# GitRasbTest
+# GitRaspbTest
 Embedded systems tests
